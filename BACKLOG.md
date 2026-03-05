@@ -27,10 +27,11 @@
 
 ---
 
-## CATEGORY: System design (work/)
+## CATEGORY: Architecture (work/)
 
 | Priority | Skill | Status | Notes |
 | -------- | ----- | ------ | ----- |
+| 4        | Python Clean Architecture | ✅ | domain/application/infrastructure, UseCase, Repository, DI |
 
 ## CATEGORY: Documentation (work/ + personal/)
 

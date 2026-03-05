@@ -1,6 +1,6 @@
 # Skill Library Index
 
-> Last updated: 2026-03-04
+> Last updated: 2026-03-05
 
 ## Structure
 
@@ -19,6 +19,7 @@
 | Python Code Standards | `work/SKILL_python_code_standards.md` | 1.0 | 2026-03-04 |
 | Python Typing | `work/SKILL_python_typing.md` | 1.0 | 2026-03-05 |
 | Django Preferences | `work/SKILL_django_preferences.md` | 1.0 | 2026-03-05 |
+| Clean Architecture | `work/SKILL_clean_architecture.md` | 1.0 | 2026-03-05 |
 
 ### Personal Skills
 <!-- AUTO-POPULATED -->
