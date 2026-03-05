@@ -9,7 +9,7 @@
 | Priority | Skill | Status | Notes |
 |----------|-------|--------|-------|
 | 1 | Python Code Standards | ✅ | Style, naming, project layout |
-| ? | Python Typing | 🔲 | Type hints, protocols, generics, mypy/pyright |
+| 2 | Python Typing | ✅ | Type hints, protocols, generics, mypy / Pydantic |
 | ? | Python Data Pipelines | 🔲 | ETL patterns, pandas/polars, orchestration |
 | ? | Django Preferences | 🔲 | ORM patterns, views, settings, apps layout |
 | ? | FastAPI Preferences | 🔲 | Routing, deps, schemas, async patterns |

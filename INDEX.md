@@ -17,6 +17,7 @@
 | Skill | File | Version | Date |
 |-------|------|---------|------|
 | Python Code Standards | `work/SKILL_python_code_standards.md` | 1.0 | 2026-03-04 |
+| Python Typing | `work/SKILL_python_typing.md` | 1.0 | 2026-03-05 |
 
 ### Personal Skills
 <!-- AUTO-POPULATED -->
