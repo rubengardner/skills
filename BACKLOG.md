@@ -4,50 +4,36 @@
 
 ---
 
-## CATEGORY: Python (work/)
-
-| Priority | Skill                       | Status | Notes                                            |
-| -------- | --------------------------- | ------ | ------------------------------------------------ |
-| 1        | Python Code Standards       | ✅     | Style, naming, project layout                    |
-| 2        | Python Typing               | ✅     | Type hints, protocols, generics, mypy / Pydantic |
-| ?        | Python Data Pipelines       | 🔲     | ETL patterns, pandas/polars, orchestration       |
-| 3        | Django Preferences          | ✅     | ORM patterns, Django Ninja, modular monolith     |
-| ?        | FastAPI Preferences         | 🔲     | Routing, deps, schemas, async patterns           |
-| ?        | Python Frameworks (General) | 🔲     | Decision guide: when Django vs FastAPI vs other  |
-
----
-
-## CATEGORY: TypeScript (work/)
-
-| Priority | Skill                     | Status | Notes                                  |
-| -------- | ------------------------- | ------ | -------------------------------------- |
-| ?        | TypeScript Code Standards | 🔲     | Style, naming, tsconfig                |
-| ?        | TypeScript Typing         | 🔲     | Generics, utility types, strict mode   |
-| ?        | TypeScript Frameworks     | 🔲     | Decision guide: Next.js, Nest.js, etc. |
-
----
-
-## CATEGORY: Architecture (work/)
+## Python
 
 | Priority | Skill | Status | Notes |
 | -------- | ----- | ------ | ----- |
-| 4        | Python Clean Architecture | ✅ | domain/application/infrastructure, UseCase, Repository, DI |
-
-## CATEGORY: Documentation (work/ + personal/)
-
-| Priority | Skill                   | Status | Notes                                 |
-| -------- | ----------------------- | ------ | ------------------------------------- |
-| ?        | Writing Docs (Work)     | 🔲     | RFCs, ADRs, runbooks, PR descriptions |
-| ?        | Writing Docs (Personal) | 🔲     | Notes, journaling, knowledge capture  |
+| 1 | Python Code Standards | ✅ | Style, naming, project layout |
+| 2 | Python Typing | ✅ | Type hints, protocols, generics, mypy / Pydantic |
+| 3 | Django Preferences | ✅ | ORM patterns, Django Ninja, modular monolith |
+| 4 | Clean Architecture | ✅ | domain/application/infrastructure, UseCase, Repository, DI |
+| 5 | API Conventions | ✅ | Framework-agnostic: RequestAPIModel/ResponseAPIModel naming, mapper pattern |
+| ? | Python Data Pipelines | 🔲 | ETL patterns, pandas/polars, orchestration |
+| ? | FastAPI Preferences | 🔲 | Routing, deps, schemas, async patterns — references api-conventions |
+| ? | Python Frameworks (General) | 🔲 | Decision guide: when Django vs FastAPI vs other |
 
 ---
 
-## CATEGORY: Personal Life (personal/)
+## TypeScript
 
-| Priority | Skill               | Status | Notes                                     |
-| -------- | ------------------- | ------ | ----------------------------------------- |
-| ?        | Sports & Training   | 🔲     | Planning, recovery, tracking              |
-| ?        | Emotional Wellbeing | 🔲     | Reflection, routines, resilience patterns |
+| Priority | Skill | Status | Notes |
+| -------- | ----- | ------ | ----- |
+| ? | TypeScript Code Standards | 🔲 | Style, naming, tsconfig |
+| ? | TypeScript Typing | 🔲 | Generics, utility types, strict mode |
+| ? | TypeScript Frameworks | 🔲 | Decision guide: Next.js, Nest.js, etc. |
+
+---
+
+## Documentation
+
+| Priority | Skill | Status | Notes |
+| -------- | ----- | ------ | ----- |
+| ? | Writing Docs | 🔲 | RFCs, ADRs, runbooks, PR descriptions |
 
 ---
 
