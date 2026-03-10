@@ -1,6 +1,6 @@
 # Skill Library Index
 
-> Last updated: 2026-03-05
+> Last updated: 2026-03-09
 
 ## Structure
 
@@ -22,3 +22,6 @@ Place this repo at `~/.claude/skills/` to make all skills available across proje
 | Django Preferences | `django-preferences/` | 1.1 | 2026-03-05 |
 | Clean Architecture | `clean-architecture/` | 1.0 | 2026-03-05 |
 | API Conventions | `api-conventions/` | 1.0 | 2026-03-05 |
+| TypeScript Types | `typescript-types/` | 1.0 | 2026-03-09 |
+| React + TypeScript | `react-typescript/` | 1.0 | 2026-03-09 |
+| TDD | `tdd/` | 1.0 | 2026-03-09 |
