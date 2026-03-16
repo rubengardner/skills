@@ -25,3 +25,6 @@ Place this repo at `~/.claude/skills/` to make all skills available across proje
 | TypeScript Types | `typescript-types/` | 1.0 | 2026-03-09 |
 | React + TypeScript | `react-typescript/` | 1.0 | 2026-03-09 |
 | TDD | `tdd/` | 1.0 | 2026-03-09 |
+| Python Data Pipelines | `python-data-pipelines/` | 1.0 | 2026-03-14 |
+| Client-Backend Mediator | `client-backend-mediator/` | 1.0 | 2026-03-14 |
+| Scalable, Reliable & Maintainable Systems | `scalable-reliable-maintainable/` | 1.0 | 2026-03-14 |
